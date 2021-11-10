@@ -18,3 +18,8 @@ code {
   width: 100%;
   background-color: rgba(0, 0, 0, 0.685);
 }
+
+img {
+  height: 150px;
+  width: auto;
+}
